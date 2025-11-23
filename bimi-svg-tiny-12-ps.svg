@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <title>bimi-svg-tiny-12-ps</title>
+  <circle cx="128" cy="128" r="128" fill="#0b2545"/>
+  <path d="M48 72 &#xA;           L88 200 &#xA;           L128 112 &#xA;           L168 200 &#xA;           L208 72 &#xA;           L176 72 &#xA;           L128 160 &#xA;           L80 72 Z" fill="#ffffff"/>
+</svg>
