@@ -1,2 +1,2 @@
-# bimi-logo
+# worldflashsale.com
 
